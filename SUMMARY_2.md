@@ -1,4 +1,4 @@
-##Features Desarrolados 
+## Features Desarrolados 
 
 implementacion de redux-Diego Duarte
 
@@ -22,7 +22,7 @@ posteo de publicaciones-Diego Duarte
 
 posteo de foto de perfil-Diego Duarte y Brayan Garzon
 
-##Feastures proximos a desarrollar
+## Features proximos a desarrollar
 
 Grupos
 
@@ -32,5 +32,5 @@ visualizacion de grupos
 
 posteo en grupos 
 
-##link heroku
+## link heroku
 
